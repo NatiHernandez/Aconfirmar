@@ -3,9 +3,24 @@
             width:10ovw;
             height: 100vh;
             background-image: url("../img/escritorio.jpg");
+            display: flex;
+            flex-direction: row;
 
 }
 
-h1{
+.logo{
     font: 20px roboto;
+    justify-content: center;
+    align-content: center;
+    background: pink;
+    width: 20%;
+    height:30%;
+}
+
+.menu{
+    font: 20px roboto;
+    background:yellow;
+    width: 80%;
+    height:30%;
+    float: right;
 }
