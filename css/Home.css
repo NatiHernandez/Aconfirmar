@@ -74,7 +74,7 @@ margin-left: 17%;}
     align-items: flex-start;}
 
 .Nos.left{
-    background: coral;
+    background:#fd6984;
     width: 40%;
     height:100%;}
 
@@ -121,7 +121,7 @@ margin-left: 17%;}
         text-align: center;}
     
 .Hom.right{
-        background: coral;
+        background: #fd28fa;
         width:60%;
         height:100%;}
 
@@ -136,7 +136,7 @@ margin-left: 17%;}
         text-align: center;}
 
 .home.Proyecto{
-    background: rgb(129, 40, 8);}
+    background: #b432d5;}
 
 .Escribinos{
         width: 300px;
@@ -150,4 +150,4 @@ margin-left: 17%;}
 
 
 .home.footer{
-    background: rgb(26, 25, 25);}
+    background: #32143a;}
