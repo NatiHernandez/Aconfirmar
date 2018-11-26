@@ -83,14 +83,17 @@ margin-left: 17%;}
     height:100%;}
 
 .Leer.mas {
-    width: 300px;
-    height: 60px;
-    border-radius: 60px;
+    width: 250px;
+    height: 50px;
+    font: 27px Roboto;
+    text-transform: uppercase;
+    color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fd6984+1,fd28fa+100 */;
+    background: -moz-linear-gradient(-45deg, #fd6984 1%, #fd28fa 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #fd6984 1%,#fd28fa 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd6984', endColorstr='#fd28fa',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    border-radius: 30px;
     color: white;
-    background: linear-gradient(to right, rgb(240, 133, 177), rgb(97, 13, 97));
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 20px;
-    font-weight: bold;
     text-align: center;}
 
 .home.Servicios{
@@ -104,14 +107,17 @@ margin-left: 17%;}
         height:100%;}
 
 .Ver.todos{
-        width: 300px;
-        height: 60px;
-        border-radius: 60px;
+        width: 250px;
+        height: 50px;
+        font: 27px Roboto;
+        text-transform: uppercase;
+        color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fd6984+1,fd28fa+100 */;
+        background: -moz-linear-gradient(-45deg, #fd6984 1%, #fd28fa 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(-45deg, #fd6984 1%,#fd28fa 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd6984', endColorstr='#fd28fa',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+        border-radius: 30px;
         color: white;
-        background: linear-gradient(to right, rgb(240, 133, 177),  rgb(97, 13, 97));
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        font-size: 20px;
-        font-weight: bold;
         text-align: center;}
     
 .Hom.right{
@@ -120,14 +126,13 @@ margin-left: 17%;}
         height:100%;}
 
 .Ver.mas{
-        width: 300px;
-        height: 60px;
-        border-radius: 60px;
-        color: rgb(240, 133, 177);
-        background: white;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        font-size: 20px;
-        font-weight: bold;
+        width: 250px;
+        height: 50px;
+        border-radius: 30px;
+        color: #fd28fa;
+        font:27px Roboto;
+        text-transform: uppercase;
+        background: white;        
         text-align: center;}
 
 .home.Proyecto{
@@ -138,10 +143,9 @@ margin-left: 17%;}
         height: 60px;
         border-radius: 60px;
         color: white;
-        background: rgb(44, 7, 44);
+        background: #32143a;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        font-size: 20px;
-        font-weight: bold;
+        font-size: 27px;
         text-align: center;}
 
 
