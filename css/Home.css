@@ -5,6 +5,58 @@
     height:100vh;
     border-bottom: 1px solid red;}
 
+
+    .Home.Header{display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-content: flex-start;
+        flex-wrap: wrap;}
+
+.logo{width:29%;
+height:20%;
+border: 1px solid}
+
+.botones{
+height: 20%;
+width:70%;
+font: 20px robota;
+word-spacing: 70px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;}
+
+.titulo{
+width: 100%;
+height:30%;
+/*border: 1px solid;*/
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-end;}
+
+.titu{
+text-align: center;
+font: 100px robota;
+margin-left: 15%;}
+
+.descripcion{
+width: 100%;
+height:30%;
+/*border: 1px solid;*/
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;}
+
+.Descrip{
+text-align: center;
+font: 20px robota;
+margin-left: 17%;}
+
+
+
+
 .home.proyecto{
     width: 100%;
     height:50vh;
