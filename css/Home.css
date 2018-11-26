@@ -30,6 +30,15 @@
     width:60%;
     height:100%;}
 
+.Leer.mas {
+    width: 300px;
+    height: 60px;
+    border-radius: 60px;
+    background: coral;
+    color: white;
+    background: linear-gradient(to right, rgb(240, 133, 177), magenta)
+}
+
 .home.Servicios{
         display: flex;
         flex-direction: row;
