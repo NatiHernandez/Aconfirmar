@@ -1,26 +1,52 @@
 *{margin:0px;}
-.Headerhome{
-            width:10ovw;
-            height: 100vh;
-            background-image: url("../img/escritorio.jpg");
-            display: flex;
-            flex-direction: row;
 
-}
+.home{
+    width: 100%;
+    height:100vh;
+    border-bottom: 1px solid red;}
 
-.logo{
-    font: 20px roboto;
-    justify-content: center;
-    align-content: center;
-    background: pink;
-    width: 20%;
-    height:30%;
-}
+.home.proyecto{
+    width: 100%;
+    height:50vh;
+    border-bottom: 1px solid red;}
 
-.menu{
-    font: 20px roboto;
-    background:yellow;
-    width: 80%;
-    height:30%;
-    float: right;
-}
+.home.footer{
+    width: 100%;
+    height:30vh;
+    border-bottom: 1px solid red;}
+
+.home.Nosotras{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;}
+
+.Nos.left{
+    background: coral;
+    width: 40%;
+    height:100%;}
+
+.Nos.right{
+    width:60%;
+    height:100%;}
+
+.home.Servicios{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;}
+
+.Hom.left{
+        width: 40%;
+        height:100%;}
+    
+.Hom.right{
+        background: coral;
+        width:60%;
+        height:100%;}
+
+.home.Proyecto{
+    background: rgb(129, 40, 8);}
+
+.home.footer{
+    background: rgb(26, 25, 25);}
