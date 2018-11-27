@@ -141,8 +141,13 @@ align-items: flex-start;}
     .Nueservicios{
         width: 50%;
         height:auto;
-        font-size: 190%;
-        font-family: roboto;}
+        font-size: 150%;
+        font-family: roboto black;}
+
+
+        
+
+        
 
         .texto1{
             font-size: 140%;
@@ -152,8 +157,9 @@ align-items: flex-start;}
     .DetalleSer{
         width:50%;
         height: auto;
-        font-size: 150%;
-        font-family: roboto}
+        font-size: 100%;
+
+        font-family: roboto light;}
 
 
 .Ver.todos{
@@ -210,8 +216,8 @@ align-items: flex-start;}
     }
 
     .nos {
+        font: 190% roboto light;
 
-        font: 22px roboto black;
         color: #000;
        
     
@@ -225,7 +231,7 @@ align-items: flex-start;}
     
     }
 
-    p {
+    .p {
 
         font: 14px roboto;
             line-height: normal;
