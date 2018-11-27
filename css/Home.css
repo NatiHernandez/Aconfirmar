@@ -82,13 +82,11 @@ align-items: flex-start;}
 
 .home.proyecto{
     width: 100%;
-    height:50vh;
-    border-bottom: 1px solid red;}
+    height:50vh;}
 
 .home.footer{
     width: 100%;
-    height:30vh;
-    border-bottom: 1px solid red;}
+    height:30vh;}
 
 .home.Nosotras{
     display: flex;
