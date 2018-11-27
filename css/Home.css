@@ -2,20 +2,18 @@
 
 .home{
     width: 100%;
-    height:100vh;
-   }
+    height:100vh;}
 
 
-    .Home.Header{display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
-        align-content: flex-start;
-        flex-wrap: wrap;
-        background-color: #b432d5;}
+.Home.Header{display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    background-color: #b432d5;}
 
 .logo{width:29%;
-height:20%;
-}
+height:20%;}
 
 .botones{
     height: 20%;
@@ -26,58 +24,44 @@ height:20%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    align-items: center;
-    }
+    align-items: center;}
     
-a {
-
-        font: 16px roboto;
-        color: #fff;
-        line-height: 12px;
-        word-spacing: 14px;
-        text-decoration: none;
-    
-    }
-
+a {font: 16px roboto;
+    color: #fff;
+    line-height: 12px;
+    word-spacing: 14px;
+    text-decoration: none;}
 
 
 .titulo{
-width: 100%;
-height:30%;
-/*border: 1px solid;*/
-display: flex;
-flex-direction: row;
-justify-content: flex-start;
-align-items: flex-end;}
+    width: 100%;
+    height:30%;
+    /*border: 1px solid;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;}
 
 .titu {
-
     text-align: left;
     font: 100px roboto;
     margin-left: 15%;
-    color: #fff;
-
-}
+    color: #fff;}
 
 .descripcion{
-width: 100%;
-height:30%;
-/*border: 1px solid;*/
-display: flex;
-flex-direction: row;
-justify-content: flex-start;
-align-items: flex-start;}
+    width: 100%;
+    height:30%;
+    /*border: 1px solid;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;}
 
 .Descrip {
-
-    text-align: left;
+     text-align: left;
     font: 20px roboto;
     margin-left: 15%;
-    color: #fff;
-
-}
-
-
+    color: #fff;}
 
 
 .home.proyecto{
@@ -90,22 +74,18 @@ align-items: flex-start;}
 
 .home.Nosotras{
     display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
-        align-items: flex-start;}
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;}
 
 .Nos.Left{
     background:#fd6984;
-    
-
-        width: 40%;
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-evenly;
-        align-items: center;
-    
-    }
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;}
 
 .Nos.right{
     width:60%;
@@ -123,122 +103,103 @@ align-items: flex-start;}
     line-height: 50px;}
 
 .home.Servicios{
-        display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
-        align-items: flex-start;}
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;}
 
-        .Hom.left{
-            width: 40%;
-            height:100%;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-evenly;
-            align-items: center;
+.Hom.left{
+    width: 40%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;}
     
-            }
+.Nueservicios{
+    width: 50%;
+    height:auto;
+    font-size: 150%;
+    font-family: roboto black;
+    line-height: 140%;}
+
+
+
+.texto1{
+    font-size: 170%;
+    font-weight: bold;}
     
-    .Nueservicios{
-        width: 50%;
-        height:auto;
-        font-size: 150%;
-        font-family: roboto black;}
-
-
-        
-
-        
-
-        .texto1{
-            font-size: 140%;
-            font-weight: bold;
-        }
-    
-    .DetalleSer{
-        width:50%;
-        height: auto;
-        font-size: 100%;
-
-        font-family: roboto light;}
+.DetalleSer{
+    width:50%;
+    height: auto;
+    font-size: 120%;
+    line-height: 190%;
+    font-family: roboto light;}
 
 
 .Ver.todos{
-        width: 250px;
-        height: 50px;
-        font: 27px Roboto;
-        text-transform: uppercase;
-        background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-        border-radius: 30px;
-        color: white;
-        text-align: center;
-        line-height: 50px;}
+    width: 250px;
+    height: 50px;
+    font-family: Roboto;
+    font-size: 150%;
+    text-transform: uppercase;
+    background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    line-height: 50px;}
     
 .Hom.right{
-        background: #fd28fa;
-        width:60%;
-        height:100%;}
+    background: #fd28fa;
+    width:60%;
+    height:100%;}
 
 .Ver.mas{
-        width: 250px;
-        height: 50px;
-        border-radius: 30px;
-        color: #fd28fa;
-        font:27px Roboto;
-        text-transform: uppercase;
-        background: white;        
-        text-align: center;
-        line-height: 50px;}
+    width: 250px;
+    height: 50px;
+    border-radius: 30px;
+    color: #fd28fa;
+    font:27px Roboto;
+    text-transform: uppercase;
+    background: white;        
+    text-align: center;
+    line-height: 50px;}
 
 .home.Proyecto{
     background: #b432d5;}
 
 .Escribinos{
-        width: 300px;
-        height: 60px;
-        border-radius: 60px;
-        color: white;
-        background: #32143a;
-        font: 27px Roboto;
-        text-align: center;
-        line-height: 50px;}
+    width: 300px;
+    height: 60px;
+    border-radius: 60px;
+    color: white;
+    background: #32143a;
+    font: 27px Roboto;
+    text-align: center;
+    line-height: 50px;}
 
 
 .home.footer{
     background: #32143a;}
 
-    .sobre {
+.sobre {
+    font: 14px roboto;
+    color: #000;
+    text-align: left;}
 
-        font: 14px roboto;
-        color: #000;
-        text-align: left;
-       
-    
-    }
+.nos {
+    font: 190% roboto light;
+    color: #000;}
 
-    .nos {
-        font: 190% roboto light;
+.agencia {
+    font: 14px roboto;
+    color: #000;}
 
-        color: #000;
-       
-    
-    }
-
-    .agencia {
-
-        font: 14px roboto;
-        color: #000;
-       
-    
-    }
-
-    .p {
-
-        font: 14px roboto;
-            line-height: normal;
-        color: #000;
-        text-align: left;
-        width: 50%;
-        padding-top: 25px;
-        line-height: 1.5;
-    
-    }
+.p {
+    font: 14px roboto;
+    line-height: normal;
+    color: #000;
+    text-align: left;
+    width: 50%;
+    padding-top: 25px;
+    line-height: 1.5;}
