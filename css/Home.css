@@ -180,7 +180,12 @@ a {font: 16px roboto;
 
 
 .home.footer{
-    background: #32143a;}
+    background: #32143a;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   }
 
 .sobre {
     font: 14px roboto;
@@ -203,3 +208,70 @@ a {font: 16px roboto;
     width: 50%;
     padding-top: 25px;
     line-height: 1.5;}
+
+
+    .redes {
+        width: 180px;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+        margin: 80px;
+    
+    
+    }
+    
+    .facebook {
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+        float: left;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-image: url("../img/facebook3.png");
+        background-size: cover;  
+    
+    
+    }
+    
+    .instagram {
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+        float: left;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-image: url("../img/instagram1.png");
+        background-size: cover;
+    
+    }
+    .twitter {
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+        float: left;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        background-image: url("../img/twitter2.png");
+        background-size: cover;
+    }
+    
+    
+    .copy2 {
+       
+        width: 200px;
+        height: 50px;
+        margin: 60px;
+        margin-top: 90px;
+        color: white;
+        font: 20px roboto;
+        
+        
+    
+        
+    }
+    
+
+
