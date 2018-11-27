@@ -91,9 +91,7 @@ margin-left: 17%;}
     border-radius: 30px;
     color: white;
     text-align: center;
-    justify-content: flex-start;
-    align-items: flex-end;
-}
+    line-height: 50px;}
 
 .home.Servicios{
         display: flex;
@@ -113,7 +111,8 @@ margin-left: 17%;}
         background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
         border-radius: 30px;
         color: white;
-        text-align: center;}
+        text-align: center;
+        line-height: 50px;}
     
 .Hom.right{
         background: #fd28fa;
@@ -128,7 +127,8 @@ margin-left: 17%;}
         font:27px Roboto;
         text-transform: uppercase;
         background: white;        
-        text-align: center;}
+        text-align: center;
+        line-height: 50px;}
 
 .home.Proyecto{
     background: #b432d5;}
@@ -140,7 +140,8 @@ margin-left: 17%;}
         color: white;
         background: #32143a;
         font: 27px Roboto;
-        text-align: center;}
+        text-align: center;
+        line-height: 50px;}
 
 
 .home.footer{
