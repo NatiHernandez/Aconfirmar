@@ -169,3 +169,43 @@ align-items: flex-start;}
 
 .home.footer{
     background: #32143a;}
+
+    .sobre {
+
+        font: 14px roboto;
+        color: #000;
+        text-align: left;
+        padding-top: 30px;
+        padding-left: 211px;
+    
+    }
+
+    .nos {
+
+        font: 22px roboto black;
+        color: #000;
+        text-align: left;
+        padding-left: 211px;
+    
+    }
+
+    .agencia {
+
+        font: 14px roboto;
+        color: #000;
+        text-align: left;
+        padding-left: 211px;
+    
+    }
+
+    p {
+
+        font: 14px roboto;
+            line-height: normal;
+        color: #000;
+        text-align: left;
+        padding-left: 211px;
+        padding-top: 25px;
+        line-height: 1.5;
+    
+    }
