@@ -3,28 +3,43 @@
 .home{
     width: 100%;
     height:100vh;
-    border-bottom: 1px solid red;}
+   }
 
 
     .Home.Header{display: flex;
         flex-direction: row;
         justify-content: flex-start;
         align-content: flex-start;
-        flex-wrap: wrap;}
+        flex-wrap: wrap;
+        background-color: #b432d5;}
 
 .logo{width:29%;
 height:20%;
-border: 1px solid}
+}
 
 .botones{
-height: 20%;
-width:70%;
-font: 20px robota;
-word-spacing: 70px;
-display: flex;
-flex-direction: row;
-justify-content: space-around;
-align-items: center;}
+    height: 20%;
+    width:70%;
+    font: 20px roboto;
+    color:#fff;
+    word-spacing: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    }
+    
+a {
+
+        font: 16px roboto;
+        color: #fff;
+        line-height: 12px;
+        word-spacing: 14px;
+        text-decoration: none;
+    
+    }
+
+
 
 .titulo{
 width: 100%;
@@ -35,10 +50,14 @@ flex-direction: row;
 justify-content: flex-start;
 align-items: flex-end;}
 
-.titu{
-text-align: center;
-font: 100px robota;
-margin-left: 15%;}
+.titu {
+
+    text-align: left;
+    font: 100px roboto;
+    margin-left: 15%;
+    color: #fff;
+
+}
 
 .descripcion{
 width: 100%;
@@ -49,10 +68,14 @@ flex-direction: row;
 justify-content: flex-start;
 align-items: flex-start;}
 
-.Descrip{
-text-align: center;
-font: 20px robota;
-margin-left: 17%;}
+.Descrip {
+
+    text-align: left;
+    font: 20px roboto;
+    margin-left: 15%;
+    color: #fff;
+
+}
 
 
 
