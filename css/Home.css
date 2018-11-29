@@ -151,7 +151,21 @@ a {font: 16px roboto;
 .Hom.right{
     background: #fd28fa;
     width:60%;
-    height:100%;}
+    height:100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;}
+
+.caja{
+    width:20%;
+    height:20%;
+    border:1px solid;
+    padding: 5px;
+    margin: 20PX;
+    margin-left: 4cm;
+    margin-top: 0px;
+}
 
 .Ver.mas{
     width: 250px;
