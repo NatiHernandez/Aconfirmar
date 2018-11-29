@@ -177,12 +177,42 @@ a {font: 16px roboto;
     text-align: center;
     line-height: 50px;}
 
+.home.porfolio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: nowrap;}
+
+.tituporf{ 
+    width:30%;
+    font-size: 35px;
+    height:auto;
+    margin-left: 3.5cm;
+    margin-bottom: 2cm;}
+
+.primerporf{
+    width:30%;
+    height:50%;
+    border: 1px solid;
+    margin-left: 3cm;
+}
+
+
+.negrita{
+ font-weight: bold;   
+}
+
+
+
+
 .home.Proyecto{
     background: #b432d5;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;}
+    
 
 .listo{ width:30%;
     color: white;
