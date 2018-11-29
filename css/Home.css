@@ -88,7 +88,7 @@ a {font: 16px roboto;
     align-items: center;}
 
 .Nos.right{
-    width:60%;
+    width:40%;
     height:100%;}
 
 .Leer.mas {
@@ -99,8 +99,7 @@ a {font: 16px roboto;
     background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     border-radius: 30px;
     color: white;
-    text-align: center;
-    line-height: 50px;}
+    text-align: center;}
 
 .home.Servicios{
     display: flex;
@@ -179,17 +178,35 @@ a {font: 16px roboto;
     line-height: 50px;}
 
 .home.Proyecto{
-    background: #b432d5;}
+    background: #b432d5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;}
+
+.listo{ width:30%;
+    color: white;
+    font-size: 170%;
+    font-family: roboto;
+    margin-bottom: 1cm;
+    text-align: justify;
+    margin-left: 20%;}
+
+.negrita{
+    font-weight: bold;
+    font-size: 110%;
+}
 
 .Escribinos{
-    width: 300px;
-    height: 60px;
+    width: 15%;
+    height: 20%;
     border-radius: 60px;
     color: white;
     background: #32143a;
     font: 27px Roboto;
     text-align: center;
-    line-height: 50px;}
+    line-height: 50px;
+    margin-left: 23%;}
 
 
 .sobre {
