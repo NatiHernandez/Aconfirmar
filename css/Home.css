@@ -178,24 +178,28 @@ a {font: 16px roboto;
     line-height: 50px;}
 
 .home.porfolio{
+    display: flex;}
+
+.porf{width:50%;}
+
+.porf.left{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    flex-wrap: nowrap;}
+    justify-content: space-around
+}
 
 .tituporf{ 
-    width:30%;
-    font-size: 35px;
+    width:50%;
+    font-size: 30px;
     height:auto;
-    margin-left: 3.5cm;
-    margin-bottom: 2cm;}
+    margin-left: 3.5cm;}
 
 .primerporf{
-    width:30%;
+    width:50%;
     height:50%;
     border: 1px solid;
     margin-left: 3cm;
+    margin-bottom: 1.5cm;
 }
 
 
