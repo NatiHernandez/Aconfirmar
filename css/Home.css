@@ -163,30 +163,19 @@ a {font: 16px roboto;
     padding: 5px;
     margin: 20PX;
     margin-left: 4cm;
-    margin-top: 0px;
-}
-
-.Ver.mas{
-    width: 250px;
-    height: 50px;
-    border-radius: 30px;
-    color: #fd28fa;
-    font:27px Roboto;
-    text-transform: uppercase;
-    background: white;        
-    text-align: center;
-    line-height: 50px;}
+    margin-top: 0px;}
 
 .home.porfolio{
     display: flex;}
 
 .porf{width:50%;}
 
-.porf.left{
+.porf.left,.porf.rigth{
     display: flex;
     flex-direction: column;
-    justify-content: space-around
-}
+    justify-content: space-around;
+    align-items: center;
+    }
 
 .tituporf{ 
     width:50%;
@@ -194,19 +183,32 @@ a {font: 16px roboto;
     height:auto;
     margin-left: 3.5cm;}
 
+.negrita{
+        font-weight: bold; 
+        font-size: 20px;  }
+
 .primerporf{
     width:50%;
     height:50%;
     border: 1px solid;
     margin-left: 3cm;
-    margin-bottom: 1.5cm;
-}
+    margin-bottom: 1.5cm;}
 
+.secondporf{
+    width: 70%;
+    height: 50%;
+    border: 1px solid;
+    margin-top: 2cm;
+    margin-left: 3cm;}
 
-.negrita{
- font-weight: bold;   
-}
-
+.Ver.mas{
+    width: 50%;
+    height: 50%
+    border: 1px solid;
+    color: #fd28fa;
+    font:27px Roboto;
+    line-height: 50px;}
+    
 
 
 
