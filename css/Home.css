@@ -245,6 +245,13 @@ a:link{ color: #fff; list-style: none;
     color: #000;
     text-align: left;}
 
+.ver.todos.dos{ 
+        color: white;
+        font-size: 170%;
+        font-family: roboto;
+        margin-bottom: 1cm;
+        margin-left: 20%;}
+
 .nos {
     font: 190% roboto light;
     color: #000;}
