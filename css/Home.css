@@ -229,10 +229,9 @@ a:link{ color: #fff; text-decoration: none;}
     justify-content: center;
     align-items: flex-start;}
     
-.listo{ width:30%;
+.encabezado.listo{ width:30%;
     color: white;
     font-size: 170%;
-    font-family: roboto;
     margin-bottom: 1cm;
     text-align: justify;
     margin-left: 20%;}
