@@ -275,7 +275,7 @@ a {font: 16px roboto;
         background: #32143a;
         display: flex;
         justify-content: space-around;
-        align-items: center;}
+        align-items: flex-end;}
 
 .copy2 {
         width: 40%;
