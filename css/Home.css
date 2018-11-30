@@ -26,7 +26,7 @@ height:20%;}
     justify-content: space-around;
     align-items: center;}
     
-a {font: 16px roboto;
+.header a {font: 16px roboto;
     color: #fff;
     line-height: 12px;
     word-spacing: 14px;
@@ -91,7 +91,10 @@ a {font: 16px roboto;
     width:40%;
     height:100%;}
 
-.Leer.mas {
+a:link{ color: #fff; list-style: none;
+        text-decoration: none;} 
+
+.Ver.Todos {
     width: 250px;
     height: 50px;
     font: 27px Roboto;
@@ -100,6 +103,8 @@ a {font: 16px roboto;
     border-radius: 30px;
     color: white;
     text-align: center;}
+.Ver.todos.dos {background: #32143a;}
+
 
 .home.Servicios{
     display: flex;
