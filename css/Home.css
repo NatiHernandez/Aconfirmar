@@ -232,7 +232,7 @@ a:link{ color: #fff; text-decoration: none;}
 .encabezado.listo{ width:30%;
     color: white;
     font-size: 170%;
-    margin-bottom: 1cm;
+    margin-bottom: 0;
     text-align: justify;
     margin-left: 20%;}
 
