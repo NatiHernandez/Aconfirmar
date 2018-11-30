@@ -202,6 +202,7 @@ a {font: 16px roboto;
 
 .Ver.mas{
     width: 45%;
+    text-decoration: none;
     height: auto;
     border-radius: 20px;
     border: 3px solid;
