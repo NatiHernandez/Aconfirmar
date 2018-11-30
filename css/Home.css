@@ -121,7 +121,8 @@ a:link{ color: #fff; text-decoration: none;}
     border-radius: 30px;
     color: white;
     text-align: center;
-    line-height: 50px;}
+    line-height: 50px;
+    margin-top: 40px;}
 
 .Ver.todos.uno{border: 3px solid;
     border-color: #fd6984 #fd28fa #b432d5;
