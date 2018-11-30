@@ -102,8 +102,12 @@ a:link{ color: #fff; list-style: none;
     background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     border-radius: 30px;
     color: white;
-    text-align: center;}
-.Ver.todos.dos {background: #32143a;}
+    text-align: center;
+    line-height: 50px;}
+
+.Ver.todos.dos {background: #32143a;
+    margin-bottom: 1cm;
+    margin-left: 20%;}
 
 
 .home.Servicios{
@@ -127,8 +131,6 @@ a:link{ color: #fff; list-style: none;
     font-family: roboto black;
     line-height: 140%;}
 
-
-
 .texto1{
     font-size: 170%;
     font-weight: bold;}
@@ -140,19 +142,7 @@ a:link{ color: #fff; list-style: none;
     line-height: 190%;
     font-family: roboto light;}
 
-
-.Ver.todos{
-    width: 250px;
-    height: 50px;
-    font-family: Roboto;
-    text-transform: uppercase;
-    background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    border-radius: 30px;
-    color: white;
-    text-align: center;
-    line-height: 50px;}
-    
-.Hom.right{
+    .Hom.right{
     background: #fd28fa;
     width:60%;
     height:100%;
@@ -202,23 +192,19 @@ a:link{ color: #fff; list-style: none;
     width: 95%;
     height: 70%;
     border: 1px solid;
-    margin-top: 20px;
-}
+    margin-top: 20px;}
 
 .Ver.mas{
-    width: 45%;
-    text-decoration: none;
-    height: auto;
-    border-radius: 20px;
+    width: 250px;
+    height: 50px;
+    border-radius: 30px;
     border: 3px solid;
     border-color:  red purple rgb(139, 30, 48) red;
     color: #fd28fa;
     font:27px Roboto;
     text-align: center;
+    line-height: 50px;
     margin-left: 6cm;}
-    
-
-
 
 .home.Proyecto{
     background: #b432d5;
@@ -227,7 +213,6 @@ a:link{ color: #fff; list-style: none;
     justify-content: center;
     align-items: flex-start;}
     
-
 .listo{ width:30%;
     color: white;
     font-size: 170%;
