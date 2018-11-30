@@ -174,12 +174,11 @@ a {font: 16px roboto;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    align-items: center;
-    }
+    align-items: center;}
 
 .tituporf{ 
-    width:50%;
-    font-size: 30px;
+    width:70%;
+    font-size: 40px;
     height:auto;
     margin-left: 3.5cm;}
 
