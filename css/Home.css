@@ -156,9 +156,12 @@ a:link{ color: #fff; text-decoration: none;}
     font-family: roboto black;
     line-height: 140%;}
 
-.texto1{
-    font-size: 170%;
-    font-weight: bold;}
+    .texto1 {
+
+        font-size: 170%;
+        font-weight: bold;
+    
+    }
     
 .DetalleSer{
     width:50%;
