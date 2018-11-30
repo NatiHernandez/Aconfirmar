@@ -114,6 +114,8 @@ a:link{ color: #fff; text-decoration: none;}
     margin-bottom: 1cm;
     margin-left: 20%;}
 
+.ver.todos.uno a{color:purple;}
+
 .home.Servicios{
     display: flex;
     flex-direction: row;
