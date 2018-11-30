@@ -1,5 +1,4 @@
-*{margin:0px;
-font-family: roboto;}
+*{margin:0px;}
 
 @font-face {
     font-family: 'icomoon';
@@ -233,13 +232,13 @@ a:link{ color: #fff; text-decoration: none;}
 
 .tituporf{ 
     width:70%;
-    font-size: 40px;
+    font-size: 50px;
     height:auto;
     margin-left: 3.5cm;}
 
 .negrita{
         font-weight: bold; 
-        font-size: 20px;  }
+        font-size: 30px;  }
 
 .primerporf{
     width:70%;
