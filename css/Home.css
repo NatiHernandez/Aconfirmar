@@ -10,7 +10,9 @@
     justify-content: flex-start;
     align-content: flex-start;
     flex-wrap: wrap;
-    background-color: #b432d5;}
+    /*background-color: #b432d5;*/
+    background-image: url("../img/escritorio.png");
+    background-repeat: no-repeat;}
 
 .logo{width:29%;
 height:20%;}
