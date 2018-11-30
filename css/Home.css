@@ -160,14 +160,15 @@ a:link{ color: #fff; text-decoration: none;}
     line-height: 50px;
     margin-top: 40px;}
 
-.Ver.todos.uno{border: 3px solid;
+.Ver.todos.uno{border: 4px solid;
     border-color: #fd6984 #fd28fa #b432d5;
     color: #fd28fa;
-    margin-left: 6cm;
+    margin-left: 4cm;
+    margin-bottom: 3cm;
     background: #fff;}
 .Ver.todos.dos {background: #32143a;
     margin-bottom: 1cm;
-    margin-left: 20%;}
+    margin-left: 25%;}
 
 .ver.todos.uno a{color:purple;}
 
@@ -234,28 +235,29 @@ a:link{ color: #fff; text-decoration: none;}
 
 .tituporf{ 
     width:70%;
-    font-size: 50px;
+    font-size: 42px;
     height:auto;
-    margin-left: 3.5cm;}
+    margin-left: 3cm;}
 
 .negrita{
-        font-weight: bold; 
-        font-size: 30px;  }
+        font-weight: bold;   }
 
 .primerporf{
     width:70%;
     height:50%;
-    border: 1px solid;
     margin-left: 3cm;
     margin-bottom: 1.5cm;}
 
-    
+
+.primerporf img, .secondporf img{width:100%;
+                height:auto;}
+
+
 
 .secondporf{
     width: 95%;
     height: 70%;
-    border: 1px solid;
-    margin-top: 20px;}
+    margin-top: 2cm;}
 
 .home.Proyecto{
     background: #b432d5;
