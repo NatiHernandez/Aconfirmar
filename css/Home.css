@@ -188,26 +188,29 @@ a {font: 16px roboto;
         font-size: 20px;  }
 
 .primerporf{
-    width:50%;
+    width:70%;
     height:50%;
     border: 1px solid;
     margin-left: 3cm;
     margin-bottom: 1.5cm;}
 
 .secondporf{
-    width: 70%;
-    height: 50%;
+    width: 95%;
+    height: 70%;
     border: 1px solid;
-    margin-top: 2cm;
-    margin-left: 3cm;}
+    margin-top: 20px;
+}
 
 .Ver.mas{
-    width: 50%;
-    height: 50%
-    border: 1px solid;
+    width: 25%;
+    height: auto;
+    border-radius: 20px;
+    border: 3px solid;
+    border-color:  red purple rgb(139, 30, 48) red;
     color: #fd28fa;
     font:27px Roboto;
-    line-height: 50px;}
+    text-align: center;
+    margin-left: 6cm;}
     
 
 
