@@ -356,8 +356,10 @@ a:link{ color: #fff; text-decoration: none;}
         flex-flow: column nowrap;
         align-items: flex-end;}
 
-    . {
-            
-    }
+    .home.nosotras .rosa {display: none;}
 
     }
+
+
+
+}
