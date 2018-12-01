@@ -353,6 +353,9 @@ a:link{ color: #fff; text-decoration: none;}
         align-items: flex-end;}
 
     .home.nosotras .rosa {display: none;}
+    .DetalleSer.uno {height: auto;width: auto;}
+    .DetalleSer.dos {display: none;}
+
 
     }
 
