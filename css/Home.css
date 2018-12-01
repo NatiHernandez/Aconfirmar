@@ -201,6 +201,7 @@ a:link{ color: #fff; text-decoration: none;}
     font-weight: bold;}
     
 .DetalleSer{
+    display: flex;
     width:50%;
     height: auto;
     font-size: 120%;
@@ -353,7 +354,7 @@ a:link{ color: #fff; text-decoration: none;}
         align-items: flex-end;}
 
     .home.nosotras .rosa {display: none;}
-    .DetalleSer.uno {height: auto;width: auto;}
+    .DetalleSer.uno {height: auto;width: auto; justify-content: center;}
     .DetalleSer.dos {display: none;}
 
 
