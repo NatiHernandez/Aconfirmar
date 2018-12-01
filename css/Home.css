@@ -150,7 +150,7 @@ a:link{ color: #fff; text-decoration: none;}
 
 .Ver.Todos {
     width: 216px;
-     height: 50px;
+    height: 50px;
     font-family: Roboto black;
     text-transform: uppercase;
     background: linear-gradient(135deg, #fd6984 1%,#fd28fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
