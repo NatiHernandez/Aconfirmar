@@ -143,7 +143,10 @@ height:20%;}
         height:auto;
         font-size: 150%;
         font-family: roboto black;
-        line-height: 140%;}
+        line-height: 140%;
+        display: flex;
+        flex-wrap: nowrap;
+    }
 
 a:link{ color: #fff; text-decoration: none;} 
 .botones a:hover{  background: #fd28fa;}
@@ -346,8 +349,10 @@ a:link{ color: #fff; text-decoration: none;}
 @media only screen and (max-width:480px) {
     .botones {word-spacing: 0px;
         flex-flow: column nowrap;
-        align-items: flex-end;
+        align-items: flex-end;}
 
+    . {
+            
     }
 
     }
