@@ -212,7 +212,7 @@ a:link{ color: #fff; text-decoration: none;}
     width:60%;
     height:100%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;}
 
@@ -223,11 +223,7 @@ a:link{ color: #fff; text-decoration: none;}
     margin-left: 60px;
     margin-top: 90px;}
 
-    .caja img {
 
-        width: 120%;
-    
-    }
    
 
 .home.porfolio{
