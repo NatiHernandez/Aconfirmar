@@ -212,7 +212,7 @@ a:link{ color: #fff; text-decoration: none;}
     width:60%;
     height:100%;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;}
 
