@@ -1,16 +1,9 @@
-body {
-   
-    
-
-
-}
 .titulo {
     
     background: #fd28fa;
     font: 30px roboto;
     color: black;
-    text-align: center;
-}
+    text-align: center;}
 
 .cuadro {
     width: 100%;
@@ -18,170 +11,105 @@ body {
     background: #fd6984;
     display: flex;
     justify-content: center;
-    align-items: center;
-  
-   
-
-}
+    align-items: center;}
 
 .caja {
       width: 30%;
       height: 450px;
-      display: flex;
-     
-      
-
-}
+      display: flex;}
 
 .uno {
     background: grey;
     justify-content: center;
-    align-items: center;
-    
-
-    
-    
-}
+    align-items: center;}
 
 .cajita {
     background: white;
     width: 80%;
-    height: 500px;  
-    
-}
+    height: 500px;}
 
 .dos {
     background: rosybrown;
     justify-content: center;
-    align-items: center;
-    
-
-}
+    align-items: center;}
 
 .footer {
     background: fuchsia;
     height: 50px;
-    width: 100%;
-}
+    width: 100%;}
 
 .caja {
-
     color: white;
-    padding: 40px;
-  
-   
-}
+    padding: 40px;}
 
 .titulo2 {
     background: white;
     height: 50px;
     font: 30px roboto;
-    color: black;
-    
-}
+    color: black;}
   
 .cubo {
     font: 10px roboto;
     color: black;
     height: 150px;
-    display: flex;
-  
-    
-}
+    display: flex;}
   
 .primero {
-    background: white;
-    
-   
-    
-}
+    background: white;}
 .segundo {
-    background: white;
-}
+    background: white;}
   
 .tercero{
-    background: white;
-}
+    background: white;}
 .imagen {
     background: white;
     display: flex;
-    align-items: center;
-   
-    
-    
-    
-}
+    align-items: center;}
 
 .casa1 {
     background-image: url("../img/home1.png");
     background-size: cover;
     background-position: center;
     width: 100px;
-    height: 100px;
-   
-
-    
-
-    
-    
-   
-
-}
+    height: 100px;}
 
 .carta1 {
     background-image: url("../img/mail1.png");
     background-size: cover;
     background-position: center;
     width: 100px;
-    height: 100px;
-
-
-
-}
+    height: 100px;}
 
 .telefono1 {
     background-image: url("../img/contact1.png");
     background-size: cover;
     background-position: center;
     width: 100px;
-    height: 100px;
-    
-   
-
-
-}
+    height: 100px;}
 
 .texto {
     background: white;
     width: 70%;
     display: flex;
     align-items: center;
-    padding: 10px;
-}
+    padding: 10px;}
 
 .texto1{
     height: 100px;
     width: 100%;
-    background: white;
-   
-}
+    background: white;}
 
 .texto2 {
     height: 100px;
     width: 100%;
-    background: white;
-
-}
+    background: white;}
 
 .texto3 {
     height: 100px;
     width: 100%;
-    background: white;
-
-}
+    background: white;}
 
 .footer {
     font: 10px roboto;
     color: black;
-    text-align: center;
-}
+    text-align: center;}
