@@ -208,7 +208,7 @@ a:link{ color: #fff; text-decoration: none;}
     line-height: 190%;
     font-family: roboto light;}
 
-    .Hom.right{
+.Hom.right{
     background: #fd28fa;
     width:60%;
     height:100%;
@@ -354,8 +354,14 @@ a:link{ color: #fff; text-decoration: none;}
         align-items: flex-end;}
 
     .home.nosotras .rosa {display: none;}
+    .home.nosotras .blanca {width: auto; align-items: center;}
+    .encabezado {width: auto;height:auto;}
     .DetalleSer.uno {height: auto;width: auto; justify-content: center;}
     .DetalleSer.dos {display: none;}
+    .Hom.left {justify-content: space-between}
+    .Hom.right {width:60%;height:100%;justify-content: flex-start;align-items: center;
+        flex-wrap: wrap;}
+    .Ver.todos.uno {margin-left: -4cm;}
 
 
     }
