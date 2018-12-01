@@ -217,13 +217,14 @@ a:link{ color: #fff; text-decoration: none;}
     flex-wrap: wrap;}
 
 .caja{
-    width:20%;
-    height:20%;
-    border:1px solid;
-    padding: 5px;
-    margin: 20PX;
-    margin-left: 4cm;
-    margin-top: 0px;}
+    width:10%;
+    height:10%;
+    margin: 140px;
+    margin-left: 60px;
+    margin-top: 90px;}
+
+
+   
 
 .home.porfolio{
     display: flex;}
