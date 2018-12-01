@@ -144,7 +144,6 @@ height:20%;}
         font-size: 150%;
         font-family: roboto black;
         line-height: 140%;
-        display: flex;
         flex-wrap: nowrap;
     }
 
