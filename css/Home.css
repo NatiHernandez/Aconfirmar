@@ -223,7 +223,11 @@ a:link{ color: #fff; text-decoration: none;}
     margin-left: 60px;
     margin-top: 90px;}
 
+    .caja img {
 
+        width: 120%;
+    
+    }
    
 
 .home.porfolio{
