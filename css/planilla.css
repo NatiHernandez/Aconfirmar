@@ -8,7 +8,7 @@
 .cuadro {
     width: 100%;
     height: 600px;
-    background: #fd6984;
+    background: white;
     display: flex;
     justify-content: center;
     align-items: center;}
@@ -33,14 +33,14 @@
 }    
 
 .uno {
-    background: grey;}
+    background: white;}
 
 .dos {
-    background: rosybrown;}
+    background: white;}
  
 
 .footer {
-    background: fuchsia;
+    background: white;
     height: 50px;
     width: 100%;}
 
