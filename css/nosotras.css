@@ -53,11 +53,18 @@
     color: #fff;}
 
 .fotos{width:100%;
-        height:185%;
+        height:200%;
         display: flex;
         justify-content: flex-start;
         align-content: flex-start;
         flex-wrap: wrap;}
+
+.quienessomos{width:95%;
+height:15%;
+margin-left: 1cm;
+margin-top: 1cm;
+border:2.5px dashed;
+border-color: coral #fd28fa coral #fd28fa;}
 
 .foto img{margin-top: 2cm;
     margin-left: 1cm;
@@ -66,7 +73,7 @@
     width:200px;}
 
 .detallefoto{width:77%;
-height:16.8%;
+height:12%;
 margin-top:2cm;
 margin-left: 1cm;
 border:2.5px dashed;
