@@ -106,7 +106,7 @@ height:20%;}
 
 .home.proyecto{
     width: 100%;
-    height:50vh;}
+    height:45vh;}
 
 .home.footer{
     width: 100%;
@@ -170,7 +170,7 @@ a:link{ color: #fff; text-decoration: none;}
     margin-bottom: 3cm;
     background: #fff;}
 .Ver.todos.dos {background: #32143a;
-    margin-bottom: 1cm;
+    margin-bottom: 0.3cm;
     margin-left: 40%;}
 
 .ver.todos.uno a{color:purple;}
