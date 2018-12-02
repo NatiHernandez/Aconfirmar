@@ -24,6 +24,14 @@
       font: 10px 'Roboto';
     }
 
+.caja form {
+    display: flex;
+    flex-direction: column;
+}
+.caja input {
+    margin: 10px 0;
+}    
+
 .uno {
     background: grey;}
 
