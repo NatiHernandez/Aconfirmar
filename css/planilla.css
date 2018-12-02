@@ -1,7 +1,7 @@
 .titulo {
     
     background: #fd28fa;
-    font: 30px roboto;
+    font: 30px 'Roboto';
     color: black;
     text-align: center;}
 
@@ -16,22 +16,16 @@
 .caja {
       width: 30%;
       height: 450px;
-      display: flex;}
+      display: flex;
+      justify-content: center;
+      align-items: center;}
 
 .uno {
-    background: grey;
-    justify-content: center;
-    align-items: center;}
-
-.cajita {
-    background: white;
-    width: 80%;
-    height: 500px;}
+    background: grey;}
 
 .dos {
-    background: rosybrown;
-    justify-content: center;
-    align-items: center;}
+    background: rosybrown;}
+ 
 
 .footer {
     background: fuchsia;
