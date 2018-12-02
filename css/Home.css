@@ -173,7 +173,8 @@ a:link{ color: #fff; text-decoration: none;}
     margin-bottom: 0.3cm;
     margin-left: 40%;}
 
-.ver.todos.uno a{color:purple;}
+.ver.todos.uno a{color:purple;
+font-size: 25px;}
 
 .home.Servicios{
     display: flex;
