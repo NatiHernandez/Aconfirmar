@@ -14,7 +14,7 @@
     align-items: center;}
 
 .caja {
-      width: 30%;
+      width: 25%;
       height: 450px;
       display: flex;
       justify-content: center;
@@ -40,14 +40,12 @@
 
 .titulo2 {
     background: white;
-    height: 50px;
-    font: 30px roboto;
+    font: 30px 'Roboto';
     color: black;}
   
 .cubo {
-    font: 10px roboto;
+    font: 10px 'Roboto';
     color: black;
-    height: 150px;
     display: flex;
     background: white;}
   
