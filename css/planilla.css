@@ -18,7 +18,9 @@
       height: 450px;
       display: flex;
       justify-content: center;
-      align-items: center;}
+      align-items: center;
+      color: white;
+      padding: 40px;}
 
 .uno {
     background: grey;}
@@ -32,9 +34,7 @@
     height: 50px;
     width: 100%;}
 
-.caja {
-    color: white;
-    padding: 40px;}
+
 
 .titulo2 {
     background: white;
