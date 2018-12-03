@@ -52,51 +52,12 @@
     margin-left: 15%;
     color: #fff;}
 
-.fotos{width:100%;
-        display: flex;
-        justify-content: flex-start;
-        align-content: flex-start;
-        flex-wrap: wrap;
-        margin-bottom: 1cm;}
-
-.quienessomos{width:89%;
-    background: pink;
-opacity: o.9;
-margin-left: 1cm;
-margin-top: 1cm;
-border:2.5px dashed;
-border-color: coral #fd28fa coral #fd28fa;
-padding: 3%;
+.porfolio{
+    height:200px;
 }
 
-.texto3{font-family: roboto;
-    line-height: 170%;
-    font-size: 20px;
-    text-align: center;}
 
-
-.foto img{margin-top: 2cm;
-    margin-left: 1cm;
-    border-radius: 200px;
-    height:200px;
-    width:200px;}
-
-.detallefoto{width:70%;
-padding: 2%;
-margin-top:2cm;
-margin-left: 1cm;
-background: pink;
-opacity: o.8;
-border:2.5px dashed;
-border-color: coral #fd28fa coral #fd28fa;}
-
-.nombres{ margin: 1cm;
-    font-size: 25px;
-    font-weight: bold;}
-
-
-
-    .home.footer{
+.home.footer{
         height: 30%;
         background: #32143a;
         display: flex;
