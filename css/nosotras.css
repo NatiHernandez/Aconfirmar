@@ -60,11 +60,20 @@
         margin-bottom: 1cm;}
 
 .quienessomos{width:95%;
-height:200px;
+    background: pink;
+opacity: o.9;
 margin-left: 1cm;
 margin-top: 1cm;
 border:2.5px dashed;
-border-color: coral #fd28fa coral #fd28fa;}
+border-color: coral #fd28fa coral #fd28fa;
+padding: 3%;
+}
+
+.texto3{font-family: roboto;
+    line-height: 170%;
+    font-size: 20px;
+    text-align: center;}
+
 
 .foto img{margin-top: 2cm;
     margin-left: 1cm;
@@ -73,14 +82,17 @@ border-color: coral #fd28fa coral #fd28fa;}
     width:200px;}
 
 .detallefoto{width:77%;
-height:190px;
+padding: 2%;
 margin-top:2cm;
 margin-left: 1cm;
+background: pink;
+opacity: o.8;
 border:2.5px dashed;
 border-color: coral #fd28fa coral #fd28fa;}
 
-
-
+.nombres{ margin: 1cm;
+    font-size: 25px;
+    font-weight: bold;}
 
 
 
