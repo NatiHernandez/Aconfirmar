@@ -35,7 +35,8 @@
     word-spacing: 14px;
     text-decoration: none;}
 
-.botones a:hover{  background: #fd28fa;}
+.botones a:hover{  color: #fd28fa;}
+
 
 .titulo{
     width: 100%;
