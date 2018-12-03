@@ -91,6 +91,7 @@
     justify-content: space-around}
 
 .cliente{
+    text-align: center;
     background: rgb(235, 233, 233);
     margin: 2%;
     width: 30%;
@@ -100,7 +101,7 @@
 
 .clientetexto{
     color: rgb(83, 77, 77);
-    font-size: 20px;
+    font-size: 18px;
     font-family: roboto;
     line-height: 150%;}
 
