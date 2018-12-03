@@ -52,21 +52,23 @@
     margin-left: 15%;
     color: #fff;}
 
-.centro{}
 
-.porfolio{ 
-    margin-top: 1cm;
+.porfolio{
+    margin:1cm;
     display: flex;
     justify-content: space-around;
-    align-items: flex-start;
     flex-wrap: wrap;}
 
-.foto{
-    margin: 1cm;
-    margin-top: 2cm;
-    width: 300px;
-    height:300px;
-    border: 1px solid red;}
+.foto{width: 500px;
+margin:2%;
+margin-bottom: 2cm;}
+
+.foto:nth-child(5){width:1100px;
+margin-bottom: 1%;}
+
+.foto img{width:100%;
+        height:auto;}
+    
 
 .contento{
     margin-top:1cm;
@@ -74,7 +76,6 @@
 
 .clientescontentos{
    margin-left: 41%;
-    margin-top: 0.5cm;
     color: rgb(83, 77, 77);
     font-size: 30px;
     font-family: roboto;
@@ -109,6 +110,8 @@
     font-weight: bold;
     text-align: center;
 }
+
+
 
 
 
