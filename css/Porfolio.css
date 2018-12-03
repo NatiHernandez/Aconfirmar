@@ -69,12 +69,12 @@
     border: 1px solid red;}
 
 .contento{
-    margin-top:2cm;
+    margin-top:1cm;
     padding: 2%;}
 
 .clientescontentos{
    margin-left: 41%;
-    margin-top: 2cm;
+    margin-top: 1cm;
     color: rgb(83, 77, 77);
     font-size: 30px;
     font-family: roboto;
@@ -82,7 +82,6 @@
 
 
 .clientes{ 
-    background: rgb(245, 240, 240);
     width:100%;
     display: flex;
     justify-content: space-around}
@@ -91,7 +90,7 @@
     margin: 2.5%;
     width: 30%;
     padding: 3%;
-    border: 1px solid;
+    border: 1px solid rgb(175, 170, 170);
     border-radius: 70px;}
 
 .clientetexto{
