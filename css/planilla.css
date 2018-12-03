@@ -16,6 +16,13 @@
     background-image: url("../img/escritorio.png");
     background-repeat: no-repeat;}
 
+ .rosa img {
+   
+
+        width: 50%;
+        padding: 121px;
+}
+
 .logo{
     width:29%;
     height:20%;}
