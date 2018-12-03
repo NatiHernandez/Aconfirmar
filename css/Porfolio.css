@@ -52,9 +52,7 @@
     margin-left: 15%;
     color: #fff;}
 
-.centro{
-
-}
+.centro{}
 
 .porfolio{ 
     margin-top: 1cm;
@@ -83,11 +81,33 @@
 }
 
 
-
 .clientes{ 
     background: rgb(245, 240, 240);
     width:100%;
-    height: 70%;}
+    display: flex;
+    justify-content: space-around}
+
+.cliente{
+    margin: 2.5%;
+    width: 30%;
+    padding: 3%;
+    border: 1px solid;
+    border-radius: 70px;}
+
+.clientetexto{
+    color: rgb(83, 77, 77);
+    font-size: 20px;
+    font-family: roboto;
+   }
+
+.nombre{
+    color:black;
+    font-size: 18px;
+    font-family: roboto;
+    font-weight: bold;
+    text-align: center;
+}
+
 
 
 
