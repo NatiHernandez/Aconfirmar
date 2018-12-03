@@ -28,6 +28,10 @@
     justify-content: space-around;
     align-items: center;}
 
+img {
+    margin-left: 130px;
+}
+
 
     
 .header a {font: 16px roboto;
