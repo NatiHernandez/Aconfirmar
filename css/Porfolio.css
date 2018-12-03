@@ -74,7 +74,7 @@
 
 .clientescontentos{
    margin-left: 41%;
-    margin-top: 1cm;
+    margin-top: 0.5cm;
     color: rgb(83, 77, 77);
     font-size: 30px;
     font-family: roboto;
@@ -87,7 +87,7 @@
     justify-content: space-around}
 
 .cliente{
-    margin: 2.5%;
+    margin: 2%;
     width: 30%;
     padding: 3%;
     border: 1px solid rgb(175, 170, 170);
