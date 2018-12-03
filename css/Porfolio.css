@@ -102,6 +102,7 @@
    }
 
 .nombre{
+    line-height: 130%;
     color:black;
     font-size: 16px;
     font-family: roboto;
