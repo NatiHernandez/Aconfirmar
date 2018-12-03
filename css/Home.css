@@ -356,15 +356,18 @@ font-size: 25px;}
 
     .home.nosotras .rosa {display: none;}
     .home.nosotras .blanca {width: auto; align-items: center;}
-    .encabezado {width: auto;height:auto;}
-    .DetalleSer.uno {height: auto;width: auto; justify-content: center;}
+    .encabezado {margin-top: 10px;}
+    .DetalleSer.uno {width: auto; margin:10%;}
     .DetalleSer.dos {display: none;}
-    .Hom.left {justify-content: space-between}
-    .Hom.right {width:60%;height:100%;justify-content: flex-start;align-items: center;
-        flex-wrap: wrap;}
+    .Ver.Todos {margin:0px;}
     .Ver.todos.uno {margin-left: -4cm;}
-
-
+    .home.Servicios {position: relative;}
+    .Hom.right {position: absolute; margin-top: 20px;margin-left: 1px;width: auto;
+        overflow: hidden;}
+    .encabezado.listo {margin:10%;width: 100%;justify-content: center;}
+    .Ver.todos.dos{margin-left:25%;}
+    
+    
     }
 
 
