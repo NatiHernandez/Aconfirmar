@@ -16,12 +16,7 @@
     background-image: url("../img/escritorio.png");
     background-repeat: no-repeat;}
 
- .rosa img {
-   
-
-        width: 50%;
-        padding: 121px;
-}
+ .rosa img {width: 50%;padding: 121px;}
 
 .logo{
     width:29%;
@@ -62,22 +57,6 @@
     margin-left: 15%;
     color: #fff;}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .cuerpo {
     display: flex;
     flex-wrap: wrap;
@@ -111,26 +90,6 @@ textarea{color: rgb(172, 165, 165)}
 .mapa{width:40%;
 height: 20%;
 margin-left: 2cm;}
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 
     .home.footer{
         height: 30%;
@@ -171,3 +130,10 @@ margin-left: 2cm;}
         border-radius: 30px;
         background-image: url("../img/twitter2.png");
         background-size: cover}
+
+/* Telefono */
+@media only screen and (max-width:480px) {
+    .botones {word-spacing: 0px;
+        flex-flow: column nowrap;
+        align-items: flex-end;}
+    }
