@@ -55,9 +55,7 @@
     margin-left: 15%;
     color: #fff;}
 
-
-.porfolio{
-    margin:1cm;
+.porfolio{margin-top: 1cm;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;}
@@ -80,7 +78,7 @@
     padding: 2%;}
 
 .clientescontentos{
-   margin-left: 41%;
+   margin-left: 38%;
     color: rgb(83, 77, 77);
     font-size: 30px;
     font-family: roboto;}
