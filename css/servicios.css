@@ -191,7 +191,11 @@ padding-top: 46px;}
     .botones {flex-flow: column nowrap;align-items: flex-end;
     justify-content: space-around;height: 100px;}
     .titulo {width: 100%; padding: 10%;}
-    .titu {text-align: center;}
+    .titu {text-align: center;
+    margin-left:auto;
+    padding-top: 50px;
+
+}}
     .foto img { display: none;}
     .ofrecemos {
         margin-left: 2cm;
@@ -200,5 +204,17 @@ padding-top: 46px;}
         align-items: center;
         text-align: center;
     
+    }
+
+    .servicio1 {
+        display: none;
+    
+    }
+
+    .ofrecemos{
+        margin: 0 auto;
+    padding-top: 35px;
+
+}
     }
 }
