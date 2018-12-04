@@ -385,7 +385,7 @@ font-size: 25px;}
     .titulo {margin-top:30%;margin-right: 10%;}
     .home.nosotras .rosa {display: none;}
     .home.nosotras .blanca {width: auto; align-items: center;}
-    .encabezado {margin-top: 10px;}
+    .encabezado {margin-top: 10px;text-align: center;}
     .DetalleSer.uno {width: auto; margin:10%;}
     .DetalleSer.dos {display: none;}
     .Ver.Todos {margin:0px;}
@@ -398,6 +398,7 @@ font-size: 25px;}
     .encabezado.listo {margin:10%;width: 100%;justify-content: center;}
     .Ver.todos.dos{margin-left:25%;}
     .caja{margin: 0px;}
+
     
     
     }
