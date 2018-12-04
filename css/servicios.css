@@ -58,19 +58,11 @@ padding-top: 46px;}
     margin-left: 12%;
     color: #fff;}
 
-.fotos{width:100%;
-       
+.fotos{width:100%;      
         background: #fff;
         display: flex;
  }
- .fotos1{width:100%;
-       
-    background:#461055;
-    display: flex;
-}
-            
-
-
+    
  .texto3{
             
             width:60%;
@@ -112,13 +104,14 @@ padding-top: 46px;}
             margin-left: 1cm;
             margin-top: 0;
              padding: 3%;
+             display: flex;
              flex-wrap: wrap;
 }
 
 
 
-.servicio1 .foto img{
-    width: 50%;
+.foto img{
+    width: 70%;
    
 
 }
