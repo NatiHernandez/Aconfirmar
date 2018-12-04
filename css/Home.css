@@ -228,6 +228,7 @@ font-size: 25px;}
      
 .caja {margin-right: 40px; margin: 0 56px;}
 
+<<<<<<< HEAD
 .zindex{width:450px;
 height:90px}
 
@@ -238,6 +239,12 @@ height:90px}
     left: 40%;
     bottom:210%;
     /*z-index: 1;*/}
+=======
+.zindex img {position: relative;
+    top: 0;
+    left: 180px;
+    z-index: 1;}
+>>>>>>> parent of 0871d74... posicione foto de nosotroas
 
 .caja img {margin-bottom: 20px;}
 
