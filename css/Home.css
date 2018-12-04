@@ -14,6 +14,12 @@
 
   .item i{font-family: icomoon;}
 
+  .logo img {
+    width: 25%;
+    margin-top: 45px;
+    margin-left: 45px;
+}
+
   .iconmoon-iconos-01:before {
     content: "\e900";
     color: #fff;
@@ -41,6 +47,7 @@
 .home{
     width: 100%;
     height:100vh;}
+
 
 
 .Home.Header{display: flex;
