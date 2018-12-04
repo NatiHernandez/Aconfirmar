@@ -209,21 +209,37 @@ font-size: 25px;}
     line-height: 190%;
     font-family: roboto light;}
 
-.Hom.right{
-    background: #fd28fa;
-    width:60%;
-    height:100%;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    flex-wrap: wrap;}
+    .Hom.right {
 
-.caja{
-    width:10%;
-    height:10%;
-    margin: 140px;
-    margin-left: 60px;
-    margin-top: 90px;}
+        box-sizing: border-box;
+     
+        background: #fd28fa;
+     
+        width: 60%;
+     
+        height: 100%;
+     
+        display: flex;
+     
+        padding: 5%;
+     
+        padding-right: 10%;
+     
+        padding-left: 10%;
+     
+        justify-content: space-between;
+     
+        align-items: center;
+     
+        flex-wrap: wrap;}
+
+        .caja {
+
+            margin-left: 40px;
+         
+            margin-right: 40px;
+         
+         }
 
 
    
