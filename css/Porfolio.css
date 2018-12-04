@@ -157,3 +157,15 @@
     border-radius: 30px;
     background-image: url("../img/twitter2.png");
     background-size: cover}
+
+    /* Telefono */
+@media only screen and (max-width:480px) {
+    .botones {flex-flow: column nowrap;
+        align-items: flex-end;
+        height: 100px;
+        margin-top: 0cm;}
+    .contento{text-align: center;}
+    .clientescontentos {margin-left: 0%;}
+    .clientes{flex-wrap: wrap;}
+    
+}
