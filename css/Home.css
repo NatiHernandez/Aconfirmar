@@ -52,7 +52,7 @@
     background-image: url("../img/escritorio.png");
     background-repeat: no-repeat;}
 
-.logo{width:29%;}
+.logo{width:25%; margin-top: 10px;margin-left: 10px;}
 
 .botones{
     height: 20%;
@@ -393,7 +393,7 @@ font-size: 25px;}
     .botones {word-spacing: 0px;
         flex-flow: column nowrap;
         align-items: flex-end;}
-
+    .titulo {margin-top:30%;margin-right: 10%;}
     .home.nosotras .rosa {display: none;}
     .home.nosotras .blanca {width: auto; align-items: center;}
     .encabezado {margin-top: 10px;}
@@ -402,8 +402,10 @@ font-size: 25px;}
     .Ver.Todos {margin:0px;}
     .Ver.todos.uno {margin-left: -4cm;}
     .home.Servicios {position: relative;}
-    .Hom.right {position: absolute; margin-top: 20px;margin-left: 1px;width: auto;
-        overflow: hidden;}
+    .Hom.left{position: relative;}
+    .encabezado.dos{position: absolute;height: 100%;margin-left: 150px;margin-bottom: 10px;}
+    .Ver.Todos.bis{position: absolute;margin-top:750px;margin-left: 250px;}
+    .Hom.right {position: absolute;margin-top: 20%;width: auto;height:80%}
     .encabezado.listo {margin:10%;width: 100%;justify-content: center;}
     .Ver.todos.dos{margin-left:25%;}
     
