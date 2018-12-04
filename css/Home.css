@@ -212,28 +212,17 @@ font-size: 25px;}
     font-family: roboto light;}
 
     .Hom.right {
-
-        box-sizing: border-box;
-     
-        background: #fd28fa;
-     
-        width: 60%;
-     
-        height: 100%;
-     
-        display: flex;
-     
-        padding: 5%;
-     
-        padding-right: 10%;
-     
-        padding-left: 10%;
-     
-        justify-content: space-between;
-     
-        align-items: center;
-     
-        flex-wrap: wrap;}
+     box-sizing: border-box;
+     background: #fd28fa;
+     width: 60%;
+     height: 100%;
+     display: flex;
+     padding: 5%;
+     padding-right: 10%;
+     padding-left: 10%;
+     justify-content: space-between;
+     align-items: center;
+     flex-wrap: wrap;}
 
         .caja {
 
@@ -402,12 +391,13 @@ font-size: 25px;}
     .Ver.Todos {margin:0px;}
     .Ver.todos.uno {margin-left: -4cm;}
     .home.Servicios {position: relative;}
-    .Hom.left{position: relative;}
+    .Hom.left{position: relative;margin-top: 10%}
     .encabezado.dos{position: absolute;height: 100%;margin-left: 150px;margin-bottom: 10px;}
-    .Ver.Todos.bis{position: absolute;margin-top:750px;margin-left: 250px;}
-    .Hom.right {position: absolute;margin-top: 20%;width: auto;height:80%}
+    .Ver.Todos.bis{position: absolute;margin-top:550px;margin-left: 250px;}
+    .Hom.right {position: absolute;margin-top: 30%;width: auto;height:70%}
     .encabezado.listo {margin:10%;width: 100%;justify-content: center;}
     .Ver.todos.dos{margin-left:25%;}
+    .caja{margin: 0px;}
     
     
     }
