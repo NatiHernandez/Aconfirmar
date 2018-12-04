@@ -218,5 +218,14 @@ padding-top: 46px;}
 
         width: 40%;
         font: 16px roboto; }
+
+        .redes {
+
+            width: 30%;
+            height: 100px;
+            display: flex;
+            justify-content: space-evenly;
+        
+        }
     
 }
