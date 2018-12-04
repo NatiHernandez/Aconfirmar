@@ -71,15 +71,18 @@
     font-size: 27px;
     font-family: roboto;}
 
-.form{border: 1px solid red;
+.form{
     width:450px;
-    height:400px;
+    height: 400px;
     display: flex;
     flex-wrap: wrap;
-    padding: 2%;
+    padding: 5%;
     margin-left: 2cm;
+    margin-right: 60px;
     margin-bottom: 2cm;}
-
+        
+.form div{margin-left: 4%;}
+        
 .nombre{margin-right: 2%}
 
 .form{
@@ -90,7 +93,9 @@ input, textarea{background: rgb(240, 236, 236);}
 
 button{color: black;
 background:rgb(199, 186, 186);
-margin-left: 2%;}
+margin-left: 2%;
+width: 70px;
+height: 40px;}
 
 textarea{color: rgb(172, 165, 165)}
 
