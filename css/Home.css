@@ -409,9 +409,9 @@ font-size: 25px;}
     .porf.left , .porf.rigth{position: relative;}
     .encabezado.tres{position: absolute;margin-top:20px; margin-left: 215px;height: 100%;}
     .primerporf , .secondporf{width: 150%;height: 100%}
-    .primerporf{height: 10%;margin-left: 250px}
+    .primerporf{height: 10%;margin-left: 225px; margin-bottom: 10px; margin-top: 100px;}
     .secondporf{height: 70%; margin-right: 250px; margin-top: 150px;}
-    .Ver.todos.uno{margin-right:100%;margin-left: 0px; margin-top: 30%}
+    .Ver.todos.uno{margin-right:100%;margin-left: 0px; margin-bottom: 15%}
 
     
     
