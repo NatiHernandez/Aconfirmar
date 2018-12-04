@@ -82,11 +82,15 @@
 
 .nombre{margin-right: 2%}
 
+.form{
+    border: 2px solid rgb(199, 186, 186);
+}
 input, textarea{background: rgb(240, 236, 236);}
 #avatar{background: white;}
 
 button{color: black;
-background: #fff}
+background:rgb(199, 186, 186);
+margin-left: 2%;}
 
 textarea{color: rgb(172, 165, 165)}
 
