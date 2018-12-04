@@ -1,9 +1,3 @@
-
-@font-face {
-    font-family: 'Roboto' ;
-    src:  url('fonts/Roboto.ttf');}
-
-
 @font-face {
     font-family: 'icomoon' ;
     src:  url('fonts/icomoon.eot');
@@ -13,6 +7,16 @@
           url('fonts/icomoon.svg#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;}
+
+
+   /* @font-face {
+        font-family: Roboto-Black;
+        src:  url('fonts/Roboto-Black.ttf');}*/
+ 
+ 
+    *{margin:0px;
+        font-family: Roboto-Black;
+    }
 
     *{margin:0px;
         font-family: Roboto black;
