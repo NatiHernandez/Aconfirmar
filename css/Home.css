@@ -94,9 +94,8 @@
     margin-left: 15%;
     color: #fff;}
 
-    .color{
-        color: #32143a;
-    }    
+.color{
+        color: #32143a;}    
 
 .descripcion{
     width: 100%;
@@ -111,7 +110,6 @@
     font: 20px roboto;
     margin-left: 15%;
     color: #fff;}
-
 
 .home.proyecto{
     width: 100%;
@@ -143,18 +141,15 @@
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    align-items: center;
-    
-    }
+    align-items: center;}
 
-    .encabezado{
+.encabezado{
         width: 50%;
         height:auto;
         font-size: 150%;
         font-family: roboto black;
         line-height: 140%;
-        flex-wrap: nowrap;
-    }
+        flex-wrap: nowrap;}
 
 a:link{ color: #fff; text-decoration: none;} 
 .botones a:hover{  color: #32143a;}
@@ -218,7 +213,7 @@ font-size: 25px;}
     line-height: 190%;
     font-family: roboto light;}
 
-    .Hom.right {
+.Hom.right {
      box-sizing: border-box;
      background: #fd28fa;
      width: 60%;
@@ -230,36 +225,17 @@ font-size: 25px;}
      justify-content: space-between;
      align-items: center;
      flex-wrap: wrap;}
+     
+.caja {margin-right: 40px; margin: 0 56px;}
 
-        .caja {
-
-          
-         
-            margin-right: 40px;
-                margin: 0 56px;
-         
-         }
-
-.zindex img {
-    position: relative;
+.zindex img {position: relative;
     top: 0;
     left: 180px;
-    z-index: 1;
-}
+    z-index: 1;}
 
-.caja img {
-   
-    
-        margin-bottom: 20px;
-}
+.caja img {margin-bottom: 20px;}
 
-.caja h4{
-    font: 20px roboto;
-    color: #fff;
-}
-
-
-   
+.caja h4{font: 20px roboto;color: #fff;}
 
 .home.porfolio{
     display: flex;}
@@ -278,8 +254,7 @@ font-size: 25px;}
     height:auto;
     margin-left: 3cm;}
 
-.negrita{
-        font-weight: bold;   }
+.negrita{font-weight: bold;}
 
 .primerporf{
     width:70%;
@@ -287,11 +262,7 @@ font-size: 25px;}
     margin-left: 3cm;
     margin-bottom: 1.5cm;}
 
-
-.primerporf img, .secondporf img{width:100%;
-                height:auto;}
-
-
+.primerporf img, .secondporf img{width:100%; height:auto;}
 
 .secondporf{
     width: 95%;
@@ -312,10 +283,8 @@ font-size: 25px;}
     text-align: justify;
     margin-left: 37%;}
 
-.negrita{
-    font-weight: bold;
-    font-size: 110%;
-}
+.negrita{font-weight: bold;
+    font-size: 110%;}
 .sobre {
     font: 14px;
     font-family:roboto;
@@ -352,16 +321,14 @@ font-size: 25px;}
         height: 50px;
         color: white;
         font: 20px roboto;
-        margin-bottom: 50px;
-    }
+        margin-bottom: 50px;}
 
 .redes {
     width:20%;
     height: 50px;
     display: flex;
     justify-content: space-around;
-    margin-bottom: 50px;
-}
+    margin-bottom: 50px;}
     
 .facebook {
     width: 35px;
