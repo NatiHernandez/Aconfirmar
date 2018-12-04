@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'Roboto' ;
-    src:  url('fonts/roboto.ttf');}
+    src:  url('fonts/Roboto.ttf');}
 
 
 @font-face {
@@ -15,7 +15,7 @@
     font-style: normal;}
 
     *{margin:0px;
-        font-family: roboto black;
+        font-family: Roboto black;
     }
 
   .item i{font-family: icomoon;}
@@ -78,7 +78,7 @@
     justify-content: space-around;
     align-items: center;}
     
-.header a {font: 16px roboto;
+.header a {font: 16px Roboto;
     color: #fff;
     line-height: 12px;
     word-spacing: 14px;
@@ -96,7 +96,7 @@
 
 .titu {
     text-align: left;
-    font: 100px roboto black;
+    font: 100px Roboto black;
     margin-left: 15%;
     color: #fff;}
 
@@ -113,7 +113,7 @@
 
 .Descrip {
     text-align: left;
-    font: 20px roboto;
+    font: 20px Roboto;
     margin-left: 15%;
     color: #fff;}
 
@@ -153,7 +153,7 @@
         width: 50%;
         height:auto;
         font-size: 150%;
-        font-family: roboto black;
+        font-family: Roboto black;
         line-height: 140%;
         flex-wrap: nowrap;}
 
@@ -208,7 +208,7 @@ font-size: 25px;}
     width: 50%;
     height:auto;
     font-size: 150%;
-    font-family: roboto black;
+    font-family: Roboto black;
     line-height: 140%;}
 
 .texto1 {
@@ -221,7 +221,7 @@ font-size: 25px;}
     height: auto;
     font-size: 120%;
     line-height: 190%;
-    font-family: roboto light;}
+    font-family: Roboto light;}
 
 .Hom.right {
      box-sizing: border-box;
@@ -251,7 +251,7 @@ height:90px;}
 
 .caja img {margin-bottom: 20px;}
 
-.caja h4{font: 20px roboto;color: #fff;}
+.caja h4{font: 20px Roboto;color: #fff;}
 
 .home.porfolio{
     display: flex;}
@@ -303,20 +303,20 @@ height:90px;}
     font-size: 110%;}
 .sobre {
     font: 14px;
-    font-family:roboto;
+    font-family:Roboto;
     color: #000;
     text-align: left;}
 
 .nos {
-    font: 190% roboto light;
+    font: 190% Roboto light;
     color: #000;}
 
 .agencia {
-    font: 14px roboto;
+    font: 14px Roboto;
     color: #000;}
 
 .p {
-    font: 14px roboto;
+    font: 14px Roboto;
     line-height: normal;
     color: #000;
     text-align: left;
@@ -336,7 +336,7 @@ height:90px;}
         width: 40%;
         height: 50px;
         color: white;
-        font: 20px roboto;
+        font: 20px Roboto;
         margin-bottom: 50px;}
 
 .redes {
