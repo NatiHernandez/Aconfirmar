@@ -239,9 +239,10 @@ font-size: 25px;}
 
         .caja {
 
-            margin-left: 40px;
+          
          
             margin-right: 40px;
+                margin: 0 56px;
          
          }
 
@@ -254,7 +255,7 @@ font-size: 25px;}
 
 .caja img {
    
-    margin-left: 30px;
+    
         margin-bottom: 20px;
 }
 
