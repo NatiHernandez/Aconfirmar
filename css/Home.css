@@ -154,6 +154,10 @@
 a:link{ color: #fff; text-decoration: none;} 
 .botones a:hover{  color: #32143a;}
 
+.blanca a, .home.Servicios a, .home.proyecto a{
+    text-decoration: none;
+    color:white;}
+
 .Ver.Todos {
     width: 216px;
     height: 50px;
