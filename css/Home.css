@@ -228,10 +228,16 @@ font-size: 25px;}
      
 .caja {margin-right: 40px; margin: 0 56px;}
 
-.zindex img {position: relative;
-    top: 0;
-    left: 180px;
-    z-index: 1;}
+.zindex{width:500px;
+height:90px}
+
+.zindex img {
+    width:100%;
+    height:auto;
+    position: relative;
+    left: 40%;
+    bottom:210%;
+    /*z-index: 1;*/}
 
 .caja img {margin-bottom: 20px;}
 
