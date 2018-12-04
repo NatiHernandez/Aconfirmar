@@ -86,8 +86,8 @@
 input, textarea{background: rgb(240, 236, 236);}
 #avatar{background: white;}
 
-button{color: roboto;
-margin-left: 38%;}
+button{color: black;
+background: #fff}
 
 textarea{color: rgb(172, 165, 165)}
 
