@@ -2,8 +2,10 @@
     font-family: roboto black;
 }
 
+
+
 @font-face {
-    font-family: 'icomoon';
+    font-family: 'icomoon', 'roboto' ;
     src:  url('fonts/icomoon.eot');
     src:  url('fonts/icomoon.eot#iefix') format('embedded-opentype'),
           url('fonts/icomoon.ttf') format('truetype'),
