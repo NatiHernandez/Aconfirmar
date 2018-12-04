@@ -389,6 +389,7 @@ font-size: 25px;}
     .botones {word-spacing: 0px;
         flex-flow: column nowrap;
         align-items: flex-end;}
+    .logo img{ width: 100%;margin-top: 10px;margin-left: 10px}
     .titulo {margin-top:30%;margin-right: 10%;}
     .home.nosotras .rosa {display: none;}
     .home.nosotras .blanca {width: auto; align-items: center;}
