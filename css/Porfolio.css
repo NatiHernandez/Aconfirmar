@@ -167,5 +167,6 @@
     .contento{text-align: center;}
     .clientescontentos {margin-left: 0%;}
     .clientes{flex-wrap: wrap;}
+    .cliente {padding: 4.5%;}
     
 }
