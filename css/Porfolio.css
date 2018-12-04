@@ -60,22 +60,29 @@
     justify-content: space-around;
     flex-wrap: wrap;}
 
-.foto{
-    width: 500px;
-    margin:2%;
-    margin-bottom: 2cm;}
-
-.foto:nth-child(5){
-    width:1100px;
-    margin-bottom: 1%;}
-
-.foto img{
-    width:100%;
-    height:auto;}
+    .foto{
+        width: 500px;
+        margin:2%;
+        margin-bottom: 2cm;
+        text-align: center;}
     
-.contento{
-    margin-top:1cm;
-    padding: 2%;}
+    .foto:nth-child(5){
+        width:1100px;
+        margin-bottom: 1%;}
+    
+    .foto img{
+        width:100%;
+        height:auto;
+        margin-top: 1cm;}
+    
+    .detallefoto{width: 100%;
+       font-size: 45px;
+       font-family: roboto;}
+        
+    .contento{
+        margin-top:1cm;
+        padding: 2%;}
+    
 
 .clientescontentos{
    margin-left: 38%;
