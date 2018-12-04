@@ -137,7 +137,13 @@ margin-left: 2cm;}
 
 /* Telefono */
 @media only screen and (max-width:480px) {
-    .botones {word-spacing: 0px;
-        flex-flow: column nowrap;
-        align-items: flex-end;}
+    .botones {flex-flow: column nowrap;
+        align-items: flex-end;
+        justify-content: space-around;
+        height: 150px;
+        margin-top: 0px;}
+    .titu {margin: 0%;}
+    .form{margin-left: 0cm; margin-right: 2cm; }
+    .mapa {margin-left: 0cm;}
+    
     }
