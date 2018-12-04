@@ -198,9 +198,10 @@ padding-top: 46px;}
     .ofrecemos {
         margin-left: 2cm;
         margin-top: 1cm;
-        padding: 3%;
+        padding: 20px;
         align-items: center;
         text-align: center;
+        width: 100%;
     
     }
 
@@ -211,8 +212,20 @@ padding-top: 46px;}
 
     .ofrecemos{
         margin: 0 auto;
-    padding-top: 35px;
+    padding-top: 35px;}
 
-}
+    .copy2 {
+
+        width: 40%;
+        font: 16px roboto; }
+
+        .redes {
+
+            width: 30%;
+            height: 100px;
+            display: flex;
+            justify-content: space-evenly;
+        
+        }
     
 }
