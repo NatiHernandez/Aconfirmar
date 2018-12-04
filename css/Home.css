@@ -245,7 +245,12 @@ font-size: 25px;}
          
          }
 
-
+.zindex img {
+    position: relative;
+    top: 0;
+    left: 180px;
+    z-index: 1;
+}
    
 
 .home.porfolio{
