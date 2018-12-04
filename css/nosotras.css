@@ -47,11 +47,16 @@
     justify-content: flex-start;
     align-items: flex-end;}
 
-.titu {
-    text-align: left;
-    font: 100px roboto;
-    margin-left: 15%;
-    color: #fff;}
+
+
+    .titu {
+
+        text-align: left;
+        font: 50px roboto black;
+        margin-left: 12%;
+        color: #fff;
+    
+    }
 
 .fotos{width:100%;
         display: flex;
