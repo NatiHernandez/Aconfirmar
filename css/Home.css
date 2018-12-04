@@ -406,8 +406,12 @@ font-size: 25px;}
     .encabezado.listo {margin:10%;width: 100%;justify-content: center;}
     .Ver.todos.dos{margin-left:25%;}
     .caja{margin: 0px;}
-    .porf.left{position: relative;}
-    .encabezado.tres{position: absolute;margin: 10px;}
+    .porf.left , .porf.rigth{position: relative;}
+    .encabezado.tres{position: absolute;margin-top:20px; margin-left: 215px;height: 100%;}
+    .primerporf , .secondporf{width: 150%;height: 100%}
+    .primerporf{height: 10%;margin-left: 250px}
+    .secondporf{height: 70%; margin-right: 250px; margin-top: 150px;}
+    .Ver.todos.uno{margin-right:100%;margin-left: 0px; margin-top: 30%}
 
     
     
