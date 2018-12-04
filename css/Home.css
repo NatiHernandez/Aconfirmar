@@ -2,7 +2,7 @@
     font-family: roboto black;
 }
 
-/*@font-face {
+@font-face {
     font-family: 'icomoon';
     src:  url('fonts/icomoon.eot');
     src:  url('fonts/icomoon.eot#iefix') format('embedded-opentype'),
@@ -42,7 +42,7 @@
     content: "\e903";
     color: #fff;
     font-size: 80px;
-    font-style: normal;}*/
+    font-style: normal;}
 
 .home{
     width: 100%;
