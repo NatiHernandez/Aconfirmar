@@ -338,13 +338,16 @@ font-size: 25px;}
         width: 40%;
         height: 50px;
         color: white;
-        font: 20px roboto;}
+        font: 20px roboto;
+        margin-bottom: 50px;
+    }
 
 .redes {
     width:20%;
     height: 50px;
     display: flex;
     justify-content: space-around;
+    margin-bottom: 50px;
 }
     
 .facebook {
