@@ -385,19 +385,21 @@ font-size: 25px;}
     .titulo {margin-top:30%;margin-right: 10%;}
     .home.nosotras .rosa {display: none;}
     .home.nosotras .blanca {width: auto; align-items: center;}
-    .encabezado {margin-top: 10px;text-align: center;}
+    .encabezado {margin-top: 10px;text-align: center;width: 100%}
     .DetalleSer.uno {width: auto; margin:10%;text-align: center;}
     .DetalleSer.dos {display: none;}
     .Ver.Todos {margin:0px;}
     .Ver.todos.uno {margin-left: -4cm;}
     .home.Servicios {position: relative;}
     .Hom.left{position: relative;margin-top: 10%}
-    .encabezado.dos{position: absolute;height: 100%;margin-left: 150px;margin-bottom: 10px;}
+    .encabezado.dos{position: absolute;height: 100%;margin-bottom: 10px;margin-left: 225px}
     .Ver.Todos.bis{position: absolute;margin-top:550px;margin-left: 250px;}
     .Hom.right {position: absolute;margin-top: 30%;width: auto;height:70%}
     .encabezado.listo {margin:10%;width: 100%;justify-content: center;}
     .Ver.todos.dos{margin-left:25%;}
     .caja{margin: 0px;}
+    .porf.left{position: relative;}
+    .encabezado.tres{position: absolute;margin: 10px;}
 
     
     
