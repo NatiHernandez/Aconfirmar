@@ -226,25 +226,18 @@ font-size: 25px;}
      align-items: center;
      flex-wrap: wrap;}
      
-.caja {margin-right: 40px; margin: 0 56px;}
-
-<<<<<<< HEAD
 .zindex{width:450px;
-height:90px}
+height:90px;}
 
-.zindex img {
+.zindex img{
     width:100%;
     height:auto;
     position: relative;
-    left: 40%;
-    bottom:210%;
-    /*z-index: 1;*/}
-=======
-.zindex img {position: relative;
-    top: 0;
+    bottom: 210%;
     left: 180px;
     z-index: 1;}
->>>>>>> parent of 0871d74... posicione foto de nosotroas
+
+.caja {margin-right: 10px; margin: 0 56px;}
 
 .caja img {margin-bottom: 20px;}
 

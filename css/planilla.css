@@ -42,7 +42,6 @@
 
     .botones a:hover{  color: #fd28fa;}
 
-
 .titulo{
     width: 100%;
     height:50%;
@@ -95,31 +94,31 @@ textarea{color: rgb(172, 165, 165)}
 height: 20%;
 margin-left: 2cm;}
 
-    .home.footer{
-        height: 30%;
-        background: #32143a;
-        display: flex;
-        justify-content: space-around;
-        align-items: flex-end;}
+.home.footer{
+    height: 30%;
+    background: #32143a;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;}
     
-    .copy2 {
-        width: 40%;
-        height: 50px;
-        color: white;
-        font: 20px roboto;}
+.copy2 {
+    width: 40%;
+    height: 50px;
+    color: white;
+    font: 20px roboto;}
     
-    .redes {
-        width:20%;
-        height: 50px;
-        display: flex;
-        justify-content: space-around;}
+.redes {
+    width:20%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;}
         
-    .facebook {
-        width: 35px;
-        height: 35px;
-        border-radius: 30px;
-        background-image: url("../img/facebook3.png");
-        background-size: cover;  }
+.facebook {
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+    background-image: url("../img/facebook3.png");
+    background-size: cover;  }
         
     .instagram {
         width: 35px;
