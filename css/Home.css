@@ -386,7 +386,7 @@ font-size: 25px;}
     .home.nosotras .rosa {display: none;}
     .home.nosotras .blanca {width: auto; align-items: center;}
     .encabezado {margin-top: 10px;text-align: center;}
-    .DetalleSer.uno {width: auto; margin:10%;}
+    .DetalleSer.uno {width: auto; margin:10%;text-align: center;}
     .DetalleSer.dos {display: none;}
     .Ver.Todos {margin:0px;}
     .Ver.todos.uno {margin-left: -4cm;}
