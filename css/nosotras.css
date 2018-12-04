@@ -135,3 +135,17 @@ border-color: coral #fd28fa coral #fd28fa;}
     border-radius: 30px;
     background-image: url("../img/twitter2.png");
     background-size: cover}
+
+    /* Telefono */
+@media only screen and (max-width:480px) {
+    .botones {flex-flow: column nowrap;
+        align-items: flex-end;
+        height: 100px;
+        justify-content: space-around;
+        margin-top: 0cm;}
+    
+    .titu {margin-left:0%;}
+    .quienessomos {width: 100%; margin-left: 0cm;}
+    .foto{margin: auto;}
+    .detallefoto {width: 100%; margin-left: 0cm;}
+    }
