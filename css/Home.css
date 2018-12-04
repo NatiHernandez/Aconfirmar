@@ -52,8 +52,7 @@
     background-image: url("../img/escritorio.png");
     background-repeat: no-repeat;}
 
-.logo{width:29%;
-height:20%;}
+.logo{width:29%;}
 
 .botones{
     height: 20%;
@@ -94,7 +93,6 @@ height:20%;}
 
 .descripcion{
     width: 100%;
-    height:30%;
     /*border: 1px solid;*/
     display: flex;
     flex-direction: row;
